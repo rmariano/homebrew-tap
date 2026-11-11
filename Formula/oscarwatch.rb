@@ -1,12 +1,12 @@
 class Oscarwatch < Formula
   desc "Desktop satellite tracking for amateur radio operators"
   homepage "https://github.com/rmariano/OscarWatch-Tracker"
-  version "1.1.6"
+  version "1.1.7"
 
   on_macos do
     on_arm do
-      url "https://github.com/magicbug/OscarWatch-Tracker/releases/download/v1.1.6/OscarWatch-1.1.6-osx-arm64.tar.gz"
-      sha256 "4c64d7711efaa995b80696bebf0b445a400b9c85c5f9c6beff2507b620181d81"
+      url "https://github.com/magicbug/OscarWatch-Tracker/releases/download/v1.1.7/OscarWatch-1.1.7-osx-arm64.tar.gz"
+      sha256 "68744ed8dfc0a5673e98691f5473f5e0f9cb4c9a14fa884112d7b4cfd779fd11"
     end
   end
 
